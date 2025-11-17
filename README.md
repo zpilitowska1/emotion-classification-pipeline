@@ -139,7 +139,6 @@ emotion-classification-pipeline/
 ├── models/                     # Model files
 │   ├── polish_emotion_model.h5    # Trained emotion classifier
 │   ├── model_card.md          # Model documentation
-│   └── model_config.json      # Model configuration
 │
 └── notebooks/                  # Development notebooks
     └── machine_translation_best_model.ipynb
