@@ -2,6 +2,8 @@
 
 An end-to-end NLP pipeline for automatic emotion detection in Polish video content. This pipeline processes Polish video/audio content (from YouTube or local files) and generates timestamped emotion annotations. It's designed for analyzing conversational content like TV shows, interviews, or podcasts.
 
+Pipeline PDF presentation: https://github.com/zpilitowska1/emotion-classification-pipeline/blob/main/Pipeline_presentation.pdf 
+
 **Pipeline Flow:**
 ```
 Video/Audio → Audio Extract → Transcription → Translation → Emotion Classification → CSV Output
