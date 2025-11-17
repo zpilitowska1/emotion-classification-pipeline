@@ -106,7 +106,7 @@ python pipeline.py --input path/to/video.mp4 --output results.csv
 
 Output will be saved in test.csv 
 
-Example output file: .....
+Example output file: https://github.com/zpilitowska1/emotion-classification-pipeline/blob/main/test.csv
 
 ```csv
 Start Time,End Time,Sentence,Translation,Emotion
