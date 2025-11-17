@@ -216,7 +216,6 @@ fear                255      0.9%        SEVERELY UNDERREPRESENTED
 
 ## 4. Performance Metrics and Evaluation
 
-Error analysis file link: ........
 
 ### Overall Performance (791 TV transcript samples)
 
